@@ -7,6 +7,8 @@ Jihang Wang, Dongcheng Zhao, Ruolin Chen, Qian Zhang, Yi Zeng
 
 paperlink： https://arxiv.org/abs/2512.22522
 
+**This work has been accepted by CVPR 2026**  
+
 This repository provides the **first reliable evaluation framework** for adversarial robustness in Spiking Neural Networks (SNNs).
 
 > We show that the adversarial robustness of many existing SNNs has been **significantly overestimated** due to unreliable gradient approximation and suboptimal attack optimization. 
